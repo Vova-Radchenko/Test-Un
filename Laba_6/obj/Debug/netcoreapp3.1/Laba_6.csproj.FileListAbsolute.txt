@@ -1,0 +1,13 @@
+C:\Projeckts_VS\Laba_6\Laba_6\bin\Debug\netcoreapp3.1\Laba_6.exe
+C:\Projeckts_VS\Laba_6\Laba_6\bin\Debug\netcoreapp3.1\Laba_6.deps.json
+C:\Projeckts_VS\Laba_6\Laba_6\bin\Debug\netcoreapp3.1\Laba_6.runtimeconfig.json
+C:\Projeckts_VS\Laba_6\Laba_6\bin\Debug\netcoreapp3.1\Laba_6.runtimeconfig.dev.json
+C:\Projeckts_VS\Laba_6\Laba_6\bin\Debug\netcoreapp3.1\Laba_6.dll
+C:\Projeckts_VS\Laba_6\Laba_6\bin\Debug\netcoreapp3.1\Laba_6.pdb
+C:\Projeckts_VS\Laba_6\Laba_6\obj\Debug\netcoreapp3.1\Laba_6.csprojAssemblyReference.cache
+C:\Projeckts_VS\Laba_6\Laba_6\obj\Debug\netcoreapp3.1\Laba_6.AssemblyInfoInputs.cache
+C:\Projeckts_VS\Laba_6\Laba_6\obj\Debug\netcoreapp3.1\Laba_6.AssemblyInfo.cs
+C:\Projeckts_VS\Laba_6\Laba_6\obj\Debug\netcoreapp3.1\Laba_6.csproj.CoreCompileInputs.cache
+C:\Projeckts_VS\Laba_6\Laba_6\obj\Debug\netcoreapp3.1\Laba_6.dll
+C:\Projeckts_VS\Laba_6\Laba_6\obj\Debug\netcoreapp3.1\Laba_6.pdb
+C:\Projeckts_VS\Laba_6\Laba_6\obj\Debug\netcoreapp3.1\Laba_6.genruntimeconfig.cache
