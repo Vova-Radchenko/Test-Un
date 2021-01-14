@@ -26,6 +26,8 @@ namespace Laba_6
                 Console.WriteLine("You enter wrong \"x\" and \"y\"!!!");
             }
             Console.WriteLine("z = " + z);
+
+            //test coment
         }
 
 
